@@ -1,16 +1,16 @@
 ## Aplicativo Cronômetro:
 
-- nível: básico;
-- Linguagem: Kotlin;
-- Ambiente: Android Studio.
+nível: básico;
+Linguagem: Kotlin;
+Ambiente: Android Studio.
 
 
 ## Design do layout:
 
-- Cronômetro (1x);
-- Button iniciar ;
-- Button Pausar;
-- Button Zerar.
+Cronômetro (1x);
+Button iniciar ;
+Button Pausar;
+Button Zerar.
 
 
 ## Passo a passo e dica:
