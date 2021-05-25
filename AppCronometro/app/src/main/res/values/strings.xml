@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">App Cronometro</string>
+    <string name="app_name">Cronometro</string>
     <string name="text_iniciar">iniciar</string>
     <string name="text_pausar">pausar</string>
     <string name="button_zerar">zerar</string>
